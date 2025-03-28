@@ -1,0 +1,2 @@
+1. Research the device discovery and selction protocol 
+
