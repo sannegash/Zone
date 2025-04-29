@@ -1,2 +1,5 @@
 1. Research the device discovery and selction protocol 
-
+      -Found the protocol to use webRTC 
+                                 Socket.IO
+                                 File system APIs
+2. Do research on webRTC build the channleing server to connect peer to peer devices
